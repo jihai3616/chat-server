@@ -1,5 +1,0 @@
-branch master
-
-branch test
-
-This is masterv0.1-protobuf branch.

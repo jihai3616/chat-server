@@ -2,4 +2,4 @@ branch master
 
 branch test
 
-This is master branch.
+This is test branch.
